@@ -14,7 +14,7 @@
                pip install requests
 
                pip install mechanize
-git clone https://github.com/V-Virux-404/Auto-Share
+git clone https://github.com/V-Virux-404/Auto-fb
 
                   cd Auto-fb
 
