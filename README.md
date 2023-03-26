@@ -16,6 +16,6 @@
                pip install mechanize
 git clone https://github.com/V-Virux-404/Auto-Share
 
-                  cd Auto-Share
+                  cd Auto-fb
 
-              python Auto-Share.py
+              python Auto-fb.py
